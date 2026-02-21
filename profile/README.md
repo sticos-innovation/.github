@@ -1,8 +1,11 @@
 ## Repositories
 [ZippPortal](https://github.com/sticos-innovation/ZippPortal)
+
 [AgenticHub](https://github.com/sticos-innovation/AgenticHub)
+
 [AgenticLib](https://github.com/sticos-innovation/AgenticLib)
-[AgentTestClient](https://github.com/sticos-innovation/AgenAgentTestClient)
+
+[AgentTestClient](https://github.com/sticos-innovation/AgentTestClient)
 
 
 <!--

@@ -1,20 +1,11 @@
-## Repositories
-[ZippPortal](https://github.com/sticos-innovation/ZippPortal)
+## Tools
+[Create a new repo](https://github.com/sticos-innovation/devops/actions/workflows/create-repo.yml "Use devops to create a new repo")
 
-[AgenticHub](https://github.com/sticos-innovation/AgenticHub)
+## Most common Repositories
+| **Agenthub** | **Zipp Agent/API** | **Devops**
+| :--- | :--- | :--- |
+| [AgenticHub](https://github.com/sticos-innovation/AgenticHub) - [Actions](https://github.com/sticos-innovation/AgenticHub/actions) | [Zipp.Api](https://github.com/sticos-innovation/Zipp.Api) - [Actions](https://github.com/sticos-innovation/Zipp.Api/actions) | [Devops](https://github.com/sticos-innovation/Devops) |
+| [AgenticLib](https://github.com/sticos-innovation/AgenticLib) - [Actions](https://github.com/sticos-innovation/AgenticLib/actions) | [Zipp.Core](https://github.com/sticos-innovation/Zipp.Core) - [Actions](https://github.com/sticos-innovation/Zipp.Core/actions)| [shared-workflows](https://github.com/sticos-innovation/shared-workflows) |
+| [AgentTestClient](https://github.com/sticos-innovation/AgentTestClient) - [Actions](https://github.com/sticos-innovation/AgentTestClient/actions) | | |
+| [ZippPortal](https://github.com/sticos-innovation/ZippPortal) - [Actions](https://github.com/sticos-innovation/ZippPortal/actions)| | |
 
-[AgenticLib](https://github.com/sticos-innovation/AgenticLib)
-
-[AgentTestClient](https://github.com/sticos-innovation/AgentTestClient)
-
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
